@@ -2,7 +2,7 @@
 
 ### Connect with me:
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white)](https://your-medium-url)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)]([https://your-linkedin-url](https://www.linkedin.com/in/marcelo-alejandro-albarracin-bb219125)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marcelo-alejandro-albarracin-bb219125)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://your-twitter-url)
 
 ## Languages, Tools, and Frameworks:
