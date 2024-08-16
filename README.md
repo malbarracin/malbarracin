@@ -1,5 +1,7 @@
 ## Hi 👋, I'm Marcelo Alejandro Albarracín
 
+![Mi Avatar](https://github.com/malbarracin/malbarracin/blob/main/malbarracin_git_profile.png)
+
 ### Connect with me:
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@marceloalejandro.albarracin)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marcelo-alejandro-albarracin-bb219125)
